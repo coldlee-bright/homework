@@ -1,0 +1,23 @@
+<swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" indicator-dots="true">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="150"/>
+    </swiper-item>
+  </block>
+</swiper>
+<view class='items-list'>
+  <view class='pro-item'>
+     <image class='pro-logo' src='/images/dangdaibiao.jpg'></image>
+     <view class='pro-body'>
+      <view class='pro-title'>中国共产党华中科技大学第四次代表大会胜利召开</view>
+     </view>
+  </view>
+  <view class='pro-item2'>
+    <image class='pro-logo2' src='/images/huangshi.jpg'></image>
+    <view class='pro-body2'>
+     <view class='pro-title2'>我校与黄石签署战略合作协议</view>
+    </view>
+  </view>
+</view>
+

@@ -1,0 +1,38 @@
+<view class='gonggao'>
+ <view class='pro-item'>
+     <image class='pro-logo' src='/images/gonggao1.jpg'></image>
+     <view class='pro-body'>
+      <view class='pro-title'>关于暑假期间严明有关纪律要求的通知</view>
+     </view>
+  </view>
+  <view class='pro-item'>
+     <image class='pro-logo' src='/images/gonggao2.jpg'></image>
+     <view class='pro-body'>
+      <view class='pro-title'>关于我校2018年度本科专业设置申请相关材料公示的通知</view>
+     </view>
+  </view>
+  <view class='pro-item'>
+     <image class='pro-logo' src='/images/gonggao3.jpg'></image>
+     <view class='pro-body'>
+      <view class='pro-title'>关于师生服务中心2018年暑假期间服务安排的通知</view>
+     </view>
+  </view>
+  <view class='pro-item'>
+     <image class='pro-logo' src='/images/gonggao4.jpg'></image>
+     <view class='pro-body'>
+      <view class='pro-title'>【中国日报】华中科技大学师生8年支教贵州纳雍山区小学</view>
+     </view>
+  </view>
+  <view class='pro-item'>
+     <image class='pro-logo' src='/images/gonggao5.jpg'></image>
+     <view class='pro-body'>
+      <view class='pro-title'>【中国青年网】华中大首位游戏学教师将开课</view>
+     </view>
+  </view>
+  <view class='pro-item'>
+     <image class='pro-logo' src='/images/gonggao6.jpg'></image>
+     <view class='pro-body'>
+      <view class='pro-title'>【新华网】华中科技大学学子关爱黔东南留守儿童</view>
+     </view>
+  </view>
+</view>

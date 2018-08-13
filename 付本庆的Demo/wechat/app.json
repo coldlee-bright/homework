@@ -1,0 +1,26 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#600808",
+    "navigationBarTitleText": "华中科技大学",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "selectedColor": "#00f",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "要闻"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "公告"
+      }
+    ]
+  }
+
+}

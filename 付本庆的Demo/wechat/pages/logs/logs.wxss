@@ -1,0 +1,17 @@
+.pro-item{
+  height:120rpx;
+  width:100%;
+  padding-top:20rpx;
+  padding-bottom:40rpx;
+  border-bottom:3rpx solid black;  
+}
+.pro-logo{
+  float:left;
+  height:100%;
+  width: 120rpx;
+}
+.pro-body{
+  overflow: hidden;
+  padding-left:10rpx;
+  font-size: 30rpx;
+}
